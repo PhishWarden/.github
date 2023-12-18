@@ -9,4 +9,8 @@ The repositories are private for obvious reasons, but will be made public after 
 
 The repos will go public once code sanitization and documentation is done with extensive testing as we are planning to launch it as an open-source product.
 
+## Update 2
+
+Further development on this project has being ceased. This won't be Open-Sourced anymore.
+
 ### Stay Tuned!
