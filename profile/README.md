@@ -12,5 +12,3 @@ The repos will go public once code sanitization and documentation is done with e
 ## Update 2
 
 Further development on this project has being ceased. This won't be Open-Sourced anymore.
-
-### Stay Tuned!
